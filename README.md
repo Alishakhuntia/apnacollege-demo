@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author- Alisha Khuntia
+Author- Alisha Khuntia (Lisha)
